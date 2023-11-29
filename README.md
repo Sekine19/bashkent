@@ -1,2 +1,2 @@
 # bashkent
- hazir proyekt
+ hazir proyekt on GitHub Account
