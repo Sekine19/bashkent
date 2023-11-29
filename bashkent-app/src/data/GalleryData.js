@@ -1,0 +1,37 @@
+import photo_1 from '../bashkent-image/gallery/foto/img-1.jpg'
+import photo_2 from '../bashkent-image/gallery/foto/img-2.jpg'
+import photo_3 from '../bashkent-image/gallery/foto/img-3.png'
+import photo_4 from '../bashkent-image/gallery/foto/img-4.png'
+import photo_5 from '../bashkent-image/gallery/foto/img-5.png'
+import photo_6 from '../bashkent-image/gallery/foto/img-6.jpg'
+import photo_7 from '../bashkent-image/gallery/foto/img-7.jpg'
+import photo_8 from '../bashkent-image/gallery/foto/img-8.jpg'
+import photo_9 from '../bashkent-image/gallery/foto/img-9.jpg'
+import photo_10 from '../bashkent-image/gallery/foto/img-10.jpg'
+import photo_11 from '../bashkent-image/gallery/foto/img-11.png'
+import photo_12 from '../bashkent-image/gallery/foto/img-12.jpg'
+import photo_13 from '../bashkent-image/gallery/foto/img-13.jpg'
+import photo_14 from '../bashkent-image/gallery/foto/img-14.png'
+import photo_15 from '../bashkent-image/gallery/foto/img-15.png'
+import photo_16 from '../bashkent-image/gallery/foto/img-16.png'
+import photo_17 from '../bashkent-image/gallery/foto/img-17.jpg'
+import photo_18 from '../bashkent-image/gallery/foto/img-18.png'
+import photo_19 from '../bashkent-image/gallery/foto/img-19.png'
+import photo_20 from '../bashkent-image/gallery/foto/img-20.png'
+import photo_21 from '../bashkent-image/gallery/foto/img-21.png'
+import video_1 from '../bashkent-image/gallery/video/img-1.jpg'
+import video_2 from '../bashkent-image/gallery/video/img-2.jpg'
+import video_3 from '../bashkent-image/gallery/video/img-3.jpg'
+import video_4 from '../bashkent-image/gallery/video/img-4.jpg'
+import video_5 from '../bashkent-image/gallery/video/img-5.jpg'
+import video_6 from '../bashkent-image/gallery/video/img-6.jpg'
+import video_7 from '../bashkent-image/gallery/video/img-7.jpg'
+import video_8 from '../bashkent-image/gallery/video/img-8.jpg'
+import video_9 from '../bashkent-image/gallery/video/img-9.jpg'
+import video_10 from '../bashkent-image/gallery/video/img-10.jpg'
+
+
+
+
+export const photoImage = [photo_1, photo_2, photo_3, photo_4, photo_5, photo_6, photo_7, photo_8, photo_9, photo_10, photo_11, photo_12, photo_13, photo_14, photo_15, photo_16, photo_17, photo_18, photo_19, photo_20, photo_21]
+export const videoImage = [video_1, video_2, video_3, video_4, video_5, video_6, video_7, video_8, video_9, video_10]
