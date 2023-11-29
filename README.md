@@ -1,0 +1,2 @@
+# bashkent
+ hazir proyekt
